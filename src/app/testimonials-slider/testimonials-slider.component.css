@@ -1,0 +1,28 @@
+.testimonials-slider img {
+    width: 180px;
+}
+.testimonials-slider .carousel-caption p {
+    color: #333333;
+    font-size: 18px;
+    font-style: italic;
+    font-weight: 500;
+}
+.testimonials-slider .carousel-caption {
+    position: relative;
+    text-align: center;
+    top: 0;
+    left: 0;
+    right: 0;    
+}
+.testimonials-slider .carousel-caption h3 {
+    color: #555555;
+    font-size: 24px;
+    font-style: italic;
+    font-weight: 500;
+}
+.testimonials-slider .carousel-indicators li {
+    background-color: #333333;
+}
+.picsum-img-wrapper {
+    text-align: center;
+}

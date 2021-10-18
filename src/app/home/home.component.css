@@ -1,0 +1,75 @@
+/*#0084ca*/
+img {
+    width: 100%;
+}
+.wco-banner-section {
+    background-color: #ffffff;
+    padding: 72px 0;
+}
+.wco-banner-section h1 {
+    padding-top: 80px;
+    font-size: 54px;
+    color: #0084ca;   
+    font-weight: 900; 
+}
+.wco-banner-section h3 {
+    font-size: 38px;
+    font-weight: 400;
+    color: #333333;
+}
+.wco-banner-section p {
+    font-size: 24px;
+    font-weight: 400;
+    color: #333333;
+}
+.wel-come-section {
+    background-color: #f7f7f7;
+    padding: 72px 0 60px;
+    text-align: left;
+}
+.wel-come-section h4 {
+    color: #777777;
+    font-size: 20px;
+    font-weight: 400;
+}
+.wel-come-section h5 {
+    line-height: 1.4;
+    font-size: 18px;
+    color: #333;
+}
+.services-section {
+    background-color: #ffffff;
+    padding: 72px 0 60px;
+}
+.services-section .col-md-12,
+.why-choose-section .col-md-12 {
+    margin-bottom: 28px;
+}
+.services-section h3 {
+    padding: 10px 0 0;
+    font-size: 24px;
+    color: #555;
+}
+.why-choose-section {
+    background-color: #f9f9f9;
+    padding: 72px 0 60px;
+}
+.why-choose-section h3 {
+    padding: 14px 0 12px;
+    font-size: 24px;
+    color: #555;
+    border-bottom: 2px solid #dbecff;
+}
+.why-choos-row {
+    padding-top:18px;
+    padding-bottom: 18px;
+    margin-top: 18px;
+    margin-bottom: 18px;
+}
+.why-choos-row .col-md-9 {
+    border-top: 1px solid #e7e7e7;
+    border-bottom: 1px solid #e7e7e7;    
+}
+.testimonials-section {
+    padding: 72px 0 60px;
+}

@@ -1,0 +1,24 @@
+a {
+    text-decoration: none;
+}
+.wco-header {
+    padding: 20px 0;
+    border-bottom: 1px solid #e5e5e5;
+}
+.wco-header ul {
+    text-align: right;
+    margin:0;
+}
+.wco-header ul li {
+    display: inline-block;
+    vertical-align: top;
+    padding: 20px 25px;
+}
+.wco-header ul li a {
+    font-size: 18px;
+    line-height: 1.6;
+    color: #333333;
+}
+.wco-header ul li a:hover {
+    color: #1a80b6;
+}

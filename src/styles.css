@@ -1,0 +1,41 @@
+/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,300;0,400;0,600;0,700;1,900&display=swap');
+h1, h2, h3, h4, h5, h5 {
+    font-family: 'Nunito', sans-serif;
+    font-weight: 600;
+}
+img {
+    width: 100%;    
+}
+a {
+    text-decoration: none;
+}
+h2.inner-title {
+    font-size: 38px;
+    color: #0084ca;
+    font-weight: 700;
+}
+.inner-contain {
+    padding: 42px 0 60px;
+}
+.inner-contain img {
+    margin-bottom: 24px;
+}
+.inner-contain ul li {
+    padding: 5px 0;
+}
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+.wco-our-project .mat-tab-labels .mat-tab-label-content {
+    color: #333333;
+    font-size: 18px;
+    font-weight: 400;
+}
+.wco-our-project .mat-tab-labels .mat-ripple.mat-tab-label {
+    padding: 0 10px;
+    min-width: 140px;
+    opacity: 1;    
+}
+.wco-our-project .mat-tab-body-content {
+    padding: 40px 0;
+}
